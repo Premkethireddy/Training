@@ -1,6 +1,6 @@
 # n=int(input())
 # sq=[[0]*n for i in range(n)]
-# num=1
+# num=1  
 # i=n//2
 # j=n-1
 # while num<=(n*n):
